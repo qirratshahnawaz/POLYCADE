@@ -1,0 +1,25 @@
+.containerDiv {
+	display: flex;
+}
+
+.submitNameStyle {
+	width: 45%;
+	float: left;
+}
+
+.btnStyle {
+    border-radius: 10px;
+    float: right;
+    margin-top: 20px;
+}
+
+.statusStyle { 
+    width: 45%;
+    float: right;
+    text-align: center;
+}
+
+.healthDiv { 
+    padding: 20px;
+    border: solid 1px black;
+}
